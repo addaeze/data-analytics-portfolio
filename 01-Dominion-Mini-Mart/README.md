@@ -59,7 +59,7 @@ The analysis therefore focused on answering:
 
 ## Data Sourcing
 
-The dataset was prepared to represent transactional sales from a Nigerian mini-mart environment.
+The dataset was gotten from Dominion mini-mart.
 
 The data contained information such as:
 
